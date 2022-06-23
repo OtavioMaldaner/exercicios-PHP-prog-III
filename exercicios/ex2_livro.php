@@ -33,6 +33,40 @@
         ?>
         <!-- O código printa a mensagem "Olá Pessoal" com quebra de linha -->
     </div>
-
+    <div>
+        <h3>Exercício d:</h3>
+        <?php
+        echo"Olá<br>Pessoal";
+        ?>
+        <!-- O código printa a mensagem "Olá Pessoal" com quebra de linha -->
+    </div>
+    <div>
+        <h3>Exercício e:</h3>
+        <?php
+        $nome = "Douglas Costa";
+        echo"Olá<br>";
+        echo $nome;
+        ?>
+        <!-- O código printa a mensagem "Olá Douglas Costa" com quebra de linha -->
+    </div>
+    <div>
+        <h3>Exercício f:</h3>
+        <?php
+        $nome = "Douglas";
+        $sobrenome = "Costa";
+        echo"Olá<br>".$nome.$sobrenome;
+        ?>
+        <!-- O código printa a mensagem "Olá DouglasCosta" com quebra de linha -->
+    </div>
+    <div>
+        <h3>Exercício g:</h3>
+        <?php
+        $num = 4;
+        echo $num;
+        echo"<br>";
+        echo $num.$num;
+        ?>
+        <!-- O código printa a mensagem "4 44" com quebra de linha -->
+    </div>
 </body>
 </html>
