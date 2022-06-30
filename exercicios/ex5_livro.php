@@ -9,7 +9,7 @@
 <body>
     <h1>Exercício 5</h1>
     <h3>Processando o código: funções de data e string</h3>
-    <p>Ao executar os códigos a seguir, escreva como ficará o resultado na tela do navegador</p></body>
+    <p>Ao executar os códigos a seguir, escreva como ficará o resultado na tela do navegador</p>
     <div>
         <h3>Exercício a:</h3>
         <?php
@@ -91,4 +91,5 @@
                                          klmnopqrstuvwx
                                          y" na tela -->
     </div>
+    </body>
 </html>
