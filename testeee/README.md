@@ -4,7 +4,7 @@
 - Só ir dando Enter, e no final botar três `no` como resposta;
 - Abrir a pasta no VS Code;
 - Adicionar o código 
-```
+```json
     "autoload": {
         "psr-4": {
             "": "src/"
