@@ -7,12 +7,8 @@
     <title>Festinha dos cria</title>
 </head>
 <body>
-    <form action="registrafesta.php" method="post">
-        Nome: <input type="text" name="nome" required> <br>
-        Endereço: <input type="text" name="endereco" required> <br>
-        Cidade: <input type="text" name="cidade" required> <br>
-        Data: <input type="date" name="data" required> <br>
-        <input type="submit" value="Enviar">
-    </form>
+    <a href="formFesta.php">Registrar festa</a>
+    <br>
+    <a href="listaFesta.php">Listar festas</a>
 </body>
 </html>

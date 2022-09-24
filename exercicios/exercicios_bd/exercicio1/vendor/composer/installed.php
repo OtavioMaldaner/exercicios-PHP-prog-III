@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'otavio.maldaner/exercicio1',
+        'name' => 'otavi/exercicio1',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'ef5f0af14c4fb236b313a02a7afcba3b32c2f2b0',
+        'reference' => '9ea7319bb5570712500d0c62b885d11382108aec',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'otavio.maldaner/exercicio1' => array(
+        'otavi/exercicio1' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'ef5f0af14c4fb236b313a02a7afcba3b32c2f2b0',
+            'reference' => '9ea7319bb5570712500d0c62b885d11382108aec',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
